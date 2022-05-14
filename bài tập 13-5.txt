@@ -1,0 +1,7 @@
+B1: tìm 1 form giống chức năng đã yêu cầu, giữ nguyên phần xử lý trên form đó
+B2: bắt đầu sửa form đó thành chức năng của mình
+B3: tạo file DTO để gen ra cột trong bảng
+B4: tạo controller, tạo hành init để thay đổi tên cột
+B5: tạo file json 
+B6: export data từ file json (đọc file json sau đó hiển thị ra bảng)
+B7: download file excel
